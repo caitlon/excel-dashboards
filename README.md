@@ -1,4 +1,4 @@
-# excel-dashboards
+# Excel Dashboards
 This repository presents my learning projects that demonstrate my skills with Excel. 
 I used datasheets to analyze data, created pivot tables then to present data in a visual form, 
 created charts to visualize processes, and also created a dashboard that can be used to track and analyze data. 
